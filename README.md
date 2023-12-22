@@ -19,8 +19,8 @@ This project is a part of the LEARN JQUERY course from Codecademy.
  The main purpose of this project is to understand jQuery methods and build a simple app to preview different web-safe fonts, sizes, and weights.
 ## To-do List
 
-- [ ] Use event handlers 
-- [ ] Use style methods 
+- [x] Use event handlers 
+- [x] Use style methods 
 
 ## Screenshots
 
