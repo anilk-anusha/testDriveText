@@ -24,8 +24,8 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## Screenshots
 
-<img width="960" alt="image" src="https://github.com/anilk-anusha/testDriveText/assets/130001836/9e99ecde-e7dd-4e74-b8fb-bdb5e1199d08">
-<img width="959" alt="image" src="https://github.com/anilk-anusha/testDriveText/assets/130001836/89561752-de65-472a-a09f-d00cce816c07">
+<img width="960" alt="image" src="https://github.com/anilk-anusha/testDriveText/assets/130001836/a0b4ed36-136c-4cb5-9fe3-b06cf1ca1ca5">
+<img width="960" alt="image" src="https://github.com/anilk-anusha/testDriveText/assets/130001836/16ef5a53-6fb6-4d96-9359-7749680315a4">
 
 
 ## Technologies
